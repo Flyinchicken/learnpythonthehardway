@@ -1,0 +1,3 @@
+I am writting a new file with less repetition
+I still think we can abstrate this program to a next level
+But I don't know how at the moment
